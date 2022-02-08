@@ -339,7 +339,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"autoprefixer@npm:^10.4.0":
+"autoprefixer@npm:^10.4.2":
   version: 10.4.2
   resolution: "autoprefixer@npm:10.4.2"
   dependencies:
@@ -1706,7 +1706,7 @@ next@latest:
   dependencies:
     "@types/node": 17.0.4
     "@types/react": 17.0.39
-    autoprefixer: ^10.4.0
+    autoprefixer: ^10.4.2
     next: latest
     postcss: ^8.4.5
     prettier: ^2.5.1
