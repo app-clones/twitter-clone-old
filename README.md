@@ -10,7 +10,7 @@ Soon
 
 1. Clone the repo
 2. `yarn`
-3. `yarn dev
+3. `yarn dev`
 4. Open the link in your browser
 
 # Credit
