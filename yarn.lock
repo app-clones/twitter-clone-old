@@ -1550,12 +1550,12 @@ next@latest:
   languageName: node
   linkType: hard
 
-"prettier-plugin-tailwindcss@npm:^0.1.5":
-  version: 0.1.5
-  resolution: "prettier-plugin-tailwindcss@npm:0.1.5"
+"prettier-plugin-tailwindcss@npm:^0.1.6":
+  version: 0.1.6
+  resolution: "prettier-plugin-tailwindcss@npm:0.1.6"
   peerDependencies:
     prettier: ">=2.2.0"
-  checksum: f05efa727c19bcce30c780bd821e0dc8a20a1310ad8296cbe3b7a4a43b47fa93ecc2a29c076133e089dd1cc6b5b91eef58f088f4c0d0b32a0d51422d9d8b39bb
+  checksum: 28bb51f683045676b14d1145a99fdfeab17c77ff3a8e3fe6baf389aaa3d00bf79a7027a4f732dab60d47885685c0e6b8e4727038aa8e02c680a73d5c23df3b44
   languageName: node
   linkType: hard
 
@@ -1710,7 +1710,7 @@ next@latest:
     next: latest
     postcss: ^8.4.6
     prettier: ^2.5.1
-    prettier-plugin-tailwindcss: ^0.1.5
+    prettier-plugin-tailwindcss: ^0.1.6
     react: ^17.0.2
     react-dom: ^17.0.2
     tailwindcss: ^3.0.19
